@@ -1,1 +1,1 @@
-# DSA_samsungZ_ptit
+# DSA_samsung_ptit
